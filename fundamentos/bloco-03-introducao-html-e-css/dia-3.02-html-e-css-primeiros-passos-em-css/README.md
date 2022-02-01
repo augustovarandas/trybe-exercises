@@ -3,7 +3,6 @@
 ## Exercícios de fixação do dia. 
 
 Requisitos do exercício:
-
 **1** - Modifique o tamanho do h1 para 65 pixels;
 
 **2** - Modifique a cor do texto do h1 para laranja;
