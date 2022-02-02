@@ -3,6 +3,7 @@
 # Exercícios de fixação do dia.
 
 Requisitos:
+
 **1** - Posicione o Mario acima do Goomba;
 
 **2** - Posicione a tag p para que fique dentro do balão de fala;
