@@ -1,10 +1,10 @@
 let word = "Trybe";
-let wordinverted = [];
+let reverseWord = [];
 
 result = word.split ("");
 
 for (i = result.length - 1; i >= 0; i -= 1) {
-    wordinverted.push (result[i])
+    reverseWord.push (result[i])
 }
 
-console.log (wordinverted);
+console.log (reverseWord);
