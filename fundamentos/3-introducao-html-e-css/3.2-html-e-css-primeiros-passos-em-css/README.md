@@ -1,4 +1,4 @@
-# Dia 3.02 - HTML & CSS - Primeiros passos em CSS
+# Dia 3.2 - HTML & CSS - Primeiros passos em CSS
 
 ## Exercícios de fixação do dia. 
 
