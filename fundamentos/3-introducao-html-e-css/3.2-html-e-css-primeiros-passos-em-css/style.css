@@ -1,0 +1,37 @@
+
+        #titulo {
+            width: 65px;
+            color: orange;
+            font-family: sans-serif;
+            font-style: initial;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        #listaNaoOrdenada {
+            background-color: peru;
+            line-height: 40px;
+        }
+
+        .paragraph-style {
+            background-color: blue;
+            font-weight: 600;
+            font-size: 2em;
+        }
+
+        body {
+          font-size: 16px;
+        }
+        
+        #amarelo {
+          background-color: yellow;
+        }
+
+        #vermelho {
+          background-color: red;
+        }
+
+        #marrom {
+          background-color: brown;
+        }
+        
