@@ -7,3 +7,4 @@ if (a > 0) {
 } else {
     console.log ("Número 0")
 }
+

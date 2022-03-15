@@ -8,3 +8,4 @@ if (custo <0 || venda < 0) {
 } else {
     console.log (lucro * 1000)
 }
+

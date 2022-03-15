@@ -6,3 +6,4 @@ if (a > b) {
 } else {
     console.log (b);
 }
+
