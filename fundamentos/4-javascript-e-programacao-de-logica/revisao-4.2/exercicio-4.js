@@ -5,4 +5,8 @@ for (let i = 0; i < numbers.length; i += 1) {
     sum += numbers[i];
 }
 
-console.log(sum/numbers.length);
+if ((sum/numbers.length) > 20) {
+    console.log('Valor maior que 20');
+} else {
+    console.log('Valor menor ou igual a 20');
+}
