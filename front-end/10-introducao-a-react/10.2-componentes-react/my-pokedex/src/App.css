@@ -1,0 +1,30 @@
+h1, h3 {
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+.pokemon {
+  border: solid black 2px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 10px;
+  width: 200px;
+  padding: 0 20px;
+}
+
+.pokedex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.pokemon-image {
+  margin: auto;
+  display: block;
+  height: 200px;
+  width: 200px;
+}
